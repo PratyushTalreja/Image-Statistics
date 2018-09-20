@@ -10,5 +10,5 @@ The concept used here is to convert the given image(multi-bands) into different 
 2. Variance: σ^2= Σn.f(n)([n-μ]^2)/ (M.N)
 3. Skewness: [Σf(n)([n-μ]^3)]/[(M.N – 1)*(σ^3)]
 4. Kurtosis: {[Σf(n)([n-μ]^4)]/[(M.N – 1)*(σ^4)]} - 3
-5. Mode is the value of the pixel/s which occurs for the maximum times.
-6. Median: First arrange the frequencies in ascending order. If the number of elements are odd then the middle element is the median
+5. Mode is the value of the pixel/s which occurs for the maximum times
+6. Median: First arrange the frequencies in ascending order. If the number of elements are odd then the middle element is the median and if the number of elements are even then average of 2 middle elements is the median
